@@ -175,7 +175,7 @@ The tests cover areas including resume file handling, candidate matching, report
 
 ## Demo
 
-**YouTube demonstration:** Add the public YouTube link here after recording and uploading the project demonstration.
+**YouTube demonstration:** [Demo Video](https://github.com/san613deep/Intelligent-Resume-Analyzer_HiDevs)
 
 ## Author
 
