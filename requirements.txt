@@ -1,1 +1,8 @@
 # Add your project dependencies here
+streamlit
+pymupdf
+python-docx
+pytest
+reportlab
+pandas
+openpyxl
