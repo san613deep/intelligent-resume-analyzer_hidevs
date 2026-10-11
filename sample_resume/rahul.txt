@@ -1,0 +1,5 @@
+Name: Rahul Sharma
+Email: rahul@example.com
+Skills: Python, SQL, Machine Learning
+Experience: 3 years
+Education: B.Tech Computer Science
